@@ -1,2 +1,3 @@
 # hello-wordl
 start the programming
+Kezdő lépések...
